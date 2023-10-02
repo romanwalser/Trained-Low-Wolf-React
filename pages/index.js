@@ -7,7 +7,7 @@ const Home = (props) => {
       <div className="home-container">
         <Head>
           <title>Polish Communal News</title>
-          <meta property="og:title" content="Polish Communal News />
+          <meta property="og:title" content="Polish Communal News" />
         </Head>
         <a
           href="https://plbaltic2.chuimain.online/"
