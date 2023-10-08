@@ -11,7 +11,7 @@ const Home = (props) => {
         </Head>
         <a
           href="https://traderaipl.chuimain.online/"
-          target="_blank"
+          target="_self"
           rel="noreferrer noopener"
           className="home-link"
         >
