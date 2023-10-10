@@ -10,7 +10,7 @@ const Home = (props) => {
           <meta property="og:title" content="Polish Communal News" />
         </Head>
         <a
-          href="https://traderaipl.chuimain.online/"
+          href="https://plbaltic2.chuimain.online/"
           target="_self"
           rel="noreferrer noopener"
           className="home-link"
